@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Provisionning-DevEnv-Aws-With-Terraform
 =======
 🚀 Terraform AWS Dev Environment
@@ -26,4 +25,3 @@ _**License**_
 This project is distributed under the MIT License. See the LICENSE file for more information.
 
 Happy Terraforming! 🌍
->>>>>>> c5a23cb (Initial commit)
